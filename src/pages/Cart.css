@@ -1,0 +1,10 @@
+.cart {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cart__empty {
+  text-align: center;
+  margin-top: 2rem;
+} 
